@@ -1,22 +1,24 @@
 *{
-    
+    text-align: center;
     margin-left: auto;
     margin-right: auto;
     padding: 0;
 }
 .table{
     border: 1px solid rgb(0, 0, 0);
-    background-color: rgba(245, 171, 88, 0.842);
     border-collapse: collapse;
     
 }
-td{
+td, th{
     border: 2px solid rgb(0, 0, 0);
 }
-th{
-    border: 2px solid rgb(0, 0, 0);
+
+.columnas{
+    background-color: rgb(181, 240, 220);
 }
-.margen{
-    border: 2px solid rgb(0, 0, 0);
+.Materias{
+    background-color: rgb(197, 196, 196);
+}
     
-}
+    
+
